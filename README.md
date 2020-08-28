@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**Get in touch:**
 ![Profile views](https://gpvc.arturio.dev/jay-deshmukh)
 
 ## Some of my Github Stats
